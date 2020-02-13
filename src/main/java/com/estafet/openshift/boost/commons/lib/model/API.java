@@ -21,4 +21,8 @@ public class API {
 		return p1 + "." + p2 + "." + Integer.toString(Integer.parseInt(p3) - 1);
 	}
 
+	public void setVersion(String version) {
+		this.version = version;
+	}
+
 }
