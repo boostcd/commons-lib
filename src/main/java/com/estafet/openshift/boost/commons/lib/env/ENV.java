@@ -14,6 +14,10 @@ public final class ENV {
 	public static final String GITHUB_USER = System.getenv("GITHUB_USER");
 	public static final String GITHUB_PASSWORD = System.getenv("GITHUB_PASSWORD");
 	
+	public static final String PROD = namespace("prod");
+	public static final String BUILD = namespace("build");
+	public static final String TEST = namespace("test");
+	
 	public static String namespace(String env) {
 		return PRODUCT + "-" + env;
 	}
