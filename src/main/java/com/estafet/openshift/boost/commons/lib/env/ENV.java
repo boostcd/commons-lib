@@ -13,5 +13,9 @@ public final class ENV {
 	public static final String GITHUB = System.getenv("GITHUB");
 	public static final String GITHUB_USER = System.getenv("GITHUB_USER");
 	public static final String GITHUB_PASSWORD = System.getenv("GITHUB_PASSWORD");
-
+	
+	public static String namespace(String env) {
+		return PRODUCT + "-" + env;
+	}
+	
 }
