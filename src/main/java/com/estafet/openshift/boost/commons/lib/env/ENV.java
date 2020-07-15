@@ -10,7 +10,6 @@ public final class ENV {
 	public static final String OPENSHIFT_USER = System.getenv("OPENSHIFT_USER");	
 	public static final String OPENSHIFT_PASSWORD = System.getenv("OPENSHIFT_PASSWORD");
 	
-	public static final String GITHUB = System.getenv("GITHUB");
 	public static final String GITHUB_USER = System.getenv("GITHUB_USER");
 	public static final String GITHUB_PASSWORD = System.getenv("GITHUB_PASSWORD");
 	
