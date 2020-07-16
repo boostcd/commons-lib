@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.version;
+package com.estafet.boostcd.commons.version;
 
 import java.util.Comparator;
 

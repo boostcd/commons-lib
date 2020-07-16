@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.date;
+package com.estafet.boostcd.commons.date;
 
 import java.util.Comparator;
 import java.util.Date;

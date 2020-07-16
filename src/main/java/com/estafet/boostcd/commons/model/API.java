@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.model;
+package com.estafet.boostcd.commons.model;
 
 import java.util.StringTokenizer;
 

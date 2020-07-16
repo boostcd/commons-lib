@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.openshift;
+package com.estafet.boostcd.commons.openshift;
 
 public final class NamespaceUtils {
 

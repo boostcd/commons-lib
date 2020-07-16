@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.env;
+package com.estafet.boostcd.commons.env;
 
 public final class ENV {
 

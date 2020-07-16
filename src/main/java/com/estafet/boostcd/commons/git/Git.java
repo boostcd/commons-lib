@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.git;
+package com.estafet.boostcd.commons.git;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

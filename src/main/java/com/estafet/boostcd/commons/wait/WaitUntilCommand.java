@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.wait;
+package com.estafet.boostcd.commons.wait;
 
 public abstract class WaitUntilCommand<T> {
 
