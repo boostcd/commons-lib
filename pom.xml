@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.estafet.openshift.boost</groupId>
-	<artifactId>estafet-openshift-boost-commons-lib</artifactId>
+	<groupId>com.estafet.boostcd</groupId>
+	<artifactId>boostcd-commons-lib</artifactId>
 	<version>0.0.16-SNAPSHOT</version>
 
 	<properties>
@@ -88,14 +88,14 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:https://github.com/Estafet-LTD/estafet-openshift-boost/estafet-openshift-boost-commons-lib.git</connection>
-		<developerConnection>scm:git:https://github.com/Estafet-LTD/estafet-openshift-boost/estafet-openshift-boost-commons-lib.git</developerConnection>
-		<url>https://github.com/Estafet-LTD/estafet-openshift-boost/estafet-openshift-boost-commons-lib</url>
+		<connection>scm:git:https://github.com/boostcd/commons-lib.git</connection>
+		<developerConnection>scm:git:https://github.com/boostcd/commons-lib.git</developerConnection>
+		<url>https://github.com/boostcd/commons-lib</url>
 		<tag>HEAD</tag>
 	</scm>
 
 	<name>Commons Libaries for Estafet Microservices</name>
-	<url>https://github.com/Estafet-LTD/estafet-openshift-boost/estafet-openshift-boost-commons-lib</url>
+	<url>https://github.com/boostcd/commons-lib</url>
 	<description>This library provides common functionality required for microservices.</description>
 
 
