@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.rest;
+package com.estafet.boostcd.commons.lib.rest;
 
 import java.util.ArrayList;
 import java.util.List;

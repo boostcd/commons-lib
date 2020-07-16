@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.date;
+package com.estafet.boostcd.commons.lib.date;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

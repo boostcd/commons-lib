@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.jms;
+package com.estafet.boostcd.commons.lib.jms;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.git;
+package com.estafet.boostcd.commons.lib.git;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.properties;
+package com.estafet.boostcd.commons.lib.properties;
 
 import java.io.IOException;
 import java.io.InputStream;

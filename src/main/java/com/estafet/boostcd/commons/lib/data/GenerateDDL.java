@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.data;
+package com.estafet.boostcd.commons.lib.data;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

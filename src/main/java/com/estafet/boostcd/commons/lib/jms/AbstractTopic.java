@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.jms;
+package com.estafet.boostcd.commons.lib.jms;
 
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
@@ -6,7 +6,7 @@ import javax.jms.JMSException;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 
-import com.estafet.openshift.boost.commons.lib.properties.PropertyUtils;
+import com.estafet.boostcd.commons.lib.properties.PropertyUtils;
 
 public class AbstractTopic {
 

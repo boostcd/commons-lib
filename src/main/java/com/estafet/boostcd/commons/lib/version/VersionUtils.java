@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.version;
+package com.estafet.boostcd.commons.lib.version;
 
 import java.util.List;
 

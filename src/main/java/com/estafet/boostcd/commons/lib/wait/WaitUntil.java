@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.wait;
+package com.estafet.boostcd.commons.lib.wait;
 
 public abstract class WaitUntil {
 

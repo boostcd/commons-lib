@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.env;
+package com.estafet.boostcd.commons.lib.env;
 
 public final class ENV {
 

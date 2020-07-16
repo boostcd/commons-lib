@@ -1,4 +1,4 @@
-package com.estafet.openshift.boost.commons.lib.model;
+package com.estafet.boostcd.commons.lib.model;
 
 import java.util.StringTokenizer;
 
